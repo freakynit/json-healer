@@ -336,4 +336,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[freakynit](https://github.com/freakynit)
+Claude and [freakynit](https://github.com/freakynit)
