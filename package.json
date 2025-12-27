@@ -1,0 +1,24 @@
+{
+  "name": "@freakynit/json-healer",
+  "description": "A robust JSON repair utility for malformed JSON strings. Handles common issues from LLMs, copy-paste errors, Python-to-JSON conversions, and various format inconsistencies.",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "json-healer": "src/index.js"
+  },
+  "scripts": {
+    "example": "node src/example.js"
+  },
+  "keywords":["json","json-parser","json-repair","json-healer","json-fix","json-utils","json-validation","malformed-json","broken-json","json-recovery","json-cleaner","json-normalizer","llm","llm-output","ai","chatgpt","openai","prompt-engineering","data-parsing","data-cleaning","data-sanitization","data-validation","javascript","nodejs","npm-package","developer-tools","jsonc","python-to-json","markdown","code-blocks"],
+  "author": "Nitin Bansal <nitinbansal85@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/freakynit/json-healer#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freakynit/json-healer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/freakynit/json-healer/issues"
+  }
+}
